@@ -1,11 +1,29 @@
 html {
-  background-color: black;
+  background-color: Black;
+  text-align: center;
 }
 
-h1 {
+.header h1 {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
-  align-items: center;
+}
+
+.download-link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.explanation h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.explanation p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
 }
